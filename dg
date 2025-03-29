@@ -1,0 +1,29 @@
+[33mcommit 944f6fc51270905a086563755cd69449fcfe3465[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: MaxBlender <maksbucik@mail.ru>
+Date:   Sun Mar 30 02:52:12 2025 +0300
+
+    Added 2 row
+
+[33mcommit 79f2349d2ad24d8c6b4d6a92d610d9ad13fa36be[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mmain[m[33m)[m
+Author: MaxBlender <maksbucik@mail.ru>
+Date:   Sun Mar 30 02:47:19 2025 +0300
+
+    Commit in feature
+
+[33mcommit 7f524d54904bd07ebbed93593d82364bf1d250ec[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MaxBlender <maksbucik@mail.ru>
+Date:   Sun Mar 30 02:39:14 2025 +0300
+
+    Add )
+
+[33mcommit 8be743ab8655e8448ff2435f4480c5b677dfef74[m
+Author: MaxBlender <maksbucik@mail.ru>
+Date:   Sun Mar 30 02:37:58 2025 +0300
+
+    Create README.TXT
+
+[33mcommit 2e341b7d237774387f94d73ac6e2c7a0f43c6558[m
+Author: Максим Буценко <127904633+MaxBlender@users.noreply.github.com>
+Date:   Sun Mar 30 02:29:35 2025 +0300
+
+    Create readme
